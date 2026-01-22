@@ -7,9 +7,10 @@ Espero que gostem! ;)
 
 # <h3>Requisitos: <br>
 ● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <strong>https://frontenddeveloper-gabriel.github.io/meu-portfolio/</strong>
+● Link de acesso: <strong>https://old-portf0lio.netlify.app</strong>
 </h3>
 
 # <h3>Updates: <br>
 ● 27/04/2024 - <b>Adicionado responsividade ao site. ✅</b>.
+● 21/01/2026 - <b>Novo portfólio: https://meu-portf0lio.netlify.app</b>.
 </h3>
