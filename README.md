@@ -11,6 +11,6 @@ Espero que gostem! ;)
 </h3>
 
 # <h3>Updates: <br>
-● 27/04/2024 - <b>Adicionado responsividade ao site. ✅</b>.
+● 27/04/2024 - <b>Adicionado responsividade ao site. ✅</b>. <br>
 ● 21/01/2026 - <b>Novo portfólio: https://meu-portf0lio.netlify.app</b>.
 </h3>
