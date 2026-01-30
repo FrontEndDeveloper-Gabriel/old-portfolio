@@ -1,16 +1,40 @@
-# PROJETO DE SITE - MEU PORTFÓLIO PESSOAL 👨‍💻🎮
+# 💻 MY PERSONAL PORTFOLIO
 
-<h3>Introdução</h3> 
-Meu portfólio pessoal :D <br>
-Como sou muito fã de Undertale e de Deltarune, tive como inspiração utilizar os elementos destes dois games para o desenvolvimento do layout. <br>
-Espero que gostem! ;)
+<br>
 
-# <h3>Requisitos: <br>
-● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <strong>https://old-portf0lio.netlify.app</strong>
-</h3>
+## 📖 About
+```ascii
+> My personal portfolio with sections about me, my projects, my skills, and contact information.
+```
+<br>
 
-# <h3>Updates: <br>
-● 27/04/2024 - <b>Adicionado responsividade ao site. ✅</b> <br>
-● 21/01/2026 - <b>Novo portfólio: https://meu-portf0lio.netlify.app</b>.
-</h3>
+## 📌 Requeriments
+ ● Accessible in browsers such as **Chrome, Edge, Firefox**, among others; <br>
+ ● Access link: **https://old-portf0lio.netlify.app/**
+ 
+<br>
+
+## 🛠️ Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<br>
+
+## 📖 Updates
+● 04/27/2024 - **Added responsiveness to the website.** ✅ <br>
+● 01/21/2026 - **New portfolio: https://meu-portf0lio.netlify.app**.
+
+<br>
+
+---
+
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
