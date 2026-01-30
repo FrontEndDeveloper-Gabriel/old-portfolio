@@ -20,7 +20,7 @@
 
 <br>
 
-## 📖 Updates
+## 🔄 Updates
 ● 04/27/2024 - **Added responsiveness to the website.** ✅ <br>
 ● 01/21/2026 - **New portfolio: https://meu-portf0lio.netlify.app**.
 
